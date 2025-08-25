@@ -24,7 +24,7 @@ JavaScript – Task management, DOM manipulation, event handling
 
 Clone the repository
 
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/Mariyam-k/To-Do-List.git
 
 
 Navigate into the project folder
